@@ -36,3 +36,6 @@ myEmitter.on('birthday', birthdayEventListener);
 
 // TODO 4 : Bangkitkan event ‘birthday’ pada myEmitter dengan method emit() dan beri nilai argumen listener dengan nama Anda
 myEmitter.emit('birthday', 'Wildan');
+
+// EXECUTION COMMAND LINE in terminal:
+// node ./events/index.js

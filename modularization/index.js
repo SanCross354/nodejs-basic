@@ -19,3 +19,6 @@ const tiger = new Tiger();
 const wolf = new Wolf();
 
 fighting(tiger, wolf);
+
+// EXECUTION COMMAND LINE in terminal:
+// node ./modularization/index.js 
